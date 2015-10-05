@@ -1,5 +1,5 @@
 
-# CAPOS: A calculate-and-print SVM with jumping
+# CaPOS: A simple virtual machine
 
 ## Emory Hufbauer
 ## Project for CS485G Section 001: Systems Programming
