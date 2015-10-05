@@ -2,7 +2,7 @@
 # CaPOS: A simple virtual machine
 
 ## Emory Hufbauer
-## Project for CS485G Section 001: Systems Programming
+## Project for CS485: Systems Programming
 
 ### Contents:
 
